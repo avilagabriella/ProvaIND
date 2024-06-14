@@ -2,7 +2,7 @@
 
 ## Objetivo: 
 - Um site de filmes para você explorar e se divertir!
-- 
+
 ## Linguagens:
 - Node.js
 - React Native
